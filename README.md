@@ -33,7 +33,7 @@
   - Update the readme file
   - Create a branch (version control)
   - Create a page https://sslau852.github.io/TICKER-Talk/
-    - (reference at https://guides.github.com/activities/hello-world/)
+  - (reference at https://guides.github.com/activities/hello-world/)
   - GitHub Desktop – an alternative for programming
 
 2.2. Looking for resources
@@ -45,15 +45,15 @@
 # 3. Practical Exercise 
 
 3.1 CloudFail
-    - Introduction of CloudFail
-    - Installation of CouldFail
-    -  Deployment of CloudFail
-    - Verification of result
+  - Introduction of CloudFail
+  - Installation of CouldFail
+  - Deployment of CloudFail
+  - Verification of result
 
 3.2 RouterSploit
-    - Introduction of RouterSploit
-    - Installation of RouterSploit
-    - Deployment of RouterSploit
+  - Introduction of RouterSploit
+  - Installation of RouterSploit
+  - Deployment of RouterSploit
 
 # 4. Practical Use
 
