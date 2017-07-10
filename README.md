@@ -5,24 +5,25 @@ Outline of TICKER Talk
 Title: Open Source Programming – GitHub
 1. What is GitHub
 
-	a. A code hosting platform for version control and collaboration;
-	b. Enables individual and a group to work together on projects from anywhere;
-	c. Founded in 2008 in San Francisco, the US
-	d. Largest host of source code in the world
-	e. 20,000,000 users, 57,000,000 repositories
-   	(a repository contain folders and files, images, videos, data sets, etc.)
+- A code hosting platform for version control and collaboration;
+- Enables individual and a group to work together on projects from anywhere;
+- Founded in 2008 in San Francisco, the US
+- Largest host of source code in the world
+- 20,000,000 users, 57,000,000 repositories
+   (a repository contain folders and files, images, videos, data sets, etc.)
 
 1.1 Functionalities
-a.	Free to download source codes, user account required for contributing contents
-b.	User & Organizational Account 
-- Free to use public repository (viewable by anyone)
-- Paid (HK$7/month) to use public repository
-- Team (HK$9/month) A/C for user permission
-- Business (HK$21/month) for hosting & other support
+- Free to download source codes, user account required for contributing contents
+- User & Organizational Account 
+	- Free to use public repository (viewable by anyone)
+	- Paid (HK$7/month) to use public repository
+	- Team (HK$9/month) A/C for user permission
+	- Business (HK$21/month) for hosting & other support
+
 1.2 Popularity
-	1.2.1 Facebook, Microsoft, Twitter also have their own Github page
-	 (reference at https://github.com/showcases/github-pages-examples)
-    1.2.2 Open Police – Being used by Belgium polices
+1.2.1 Facebook, Microsoft, Twitter also have their own Github page
+     (reference at https://github.com/showcases/github-pages-examples)
+1.2.2 Open Police – Being used by Belgium polices
      (reference at https://github.com/belgianpolice/openpolice-platform)
 
 2. Demos
@@ -53,15 +54,15 @@ b.	User & Organizational Account
 	3.2.3 Deployment of RouterSploit
 
 4. Practical Use
-	4.1 Misuse in hosting – 查詢警員資料
-   (Source: http://police-github.github.io)
-    4.1.1 Background – violation of PDPO
+    4.1 Misuse in hosting – 查詢警員資料
+        (Source: http://police-github.github.io)
+        4.1.1 Background – violation of PDPO
 	4.1.2 Looking into html & JSON source codes
     4.2 Malware sample – theZoo
-	  (Source: https://github.com/ytisf/theZoo/issues)
+        (Source: https://github.com/ytisf/theZoo/issues)
 4.2 Investigation
-4.3.1 Subpoena required!
-4.3.2 Knowledge in programming (+ possibly Linux) required
+4.2.1 Subpoena required!
+4.2.2 Knowledge in programming (+ possibly Linux) required
 
 5. Food for Thought
 	5.1 Too little time, too many resources
