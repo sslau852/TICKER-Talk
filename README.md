@@ -1,6 +1,6 @@
 # TICKER-Talk
-Outline of TICKER Talk 
-Title: Open Source Programming – GitHub
+- Outline of TICKER Talk 
+- Title: Open Source Programming – GitHub
 
 # 1. What is GitHub
 
