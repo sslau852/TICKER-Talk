@@ -37,7 +37,7 @@ Title: Open Source Programming – GitHub
     - GitHub Desktop – an alternative for programming
 
 2.2. Looking for resources
-  2.2.1 Search “penetration testing”
+2.2.1 Search “penetration testing”
      - Found source codes for lots of penetration testing tools 
      - Find “SECFORCE/Sparta” 
      - Even cheat sheets!
