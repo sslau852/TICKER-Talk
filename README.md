@@ -5,12 +5,12 @@ Outline of TICKER Talk
 Title: Open Source Programming – GitHub
 1. What is GitHub
 
-a. A code hosting platform for version control and collaboration;
-b. Enables individual and a group to work together on projects from anywhere;
-c. Founded in 2008 in San Francisco, the US
-d. Largest host of source code in the world
-e. 20,000,000 users, 57,000,000 repositories
-   (a repository contain folders and files, images, videos, data sets, etc.)
+	a. A code hosting platform for version control and collaboration;
+	b. Enables individual and a group to work together on projects from anywhere;
+	c. Founded in 2008 in San Francisco, the US
+	d. Largest host of source code in the world
+	e. 20,000,000 users, 57,000,000 repositories
+   	(a repository contain folders and files, images, videos, data sets, etc.)
 
 1.1 Functionalities
 a.	Free to download source codes, user account required for contributing contents
