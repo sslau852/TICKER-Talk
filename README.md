@@ -22,19 +22,19 @@ Title: Open Source Programming – GitHub
 
 1.2 Popularity
 
-   1.2.1 Facebook, Microsoft, Twitter also have their own Github page
-           (reference at https://github.com/showcases/github-pages-examples)
-   1.2.2 Open Police – Being used by Belgium police
-           (reference at https://github.com/belgianpolice/openpolice-platform)
+   -1.2.1 Facebook, Microsoft, Twitter also have their own Github page
+   -        (reference at https://github.com/showcases/github-pages-examples)
+   -1.2.2 Open Police – Being used by Belgium police
+   -        (reference at https://github.com/belgianpolice/openpolice-platform)
 
 2. Demos
-2.1  Creating a Repository
+-2.1  Creating a Repository
 	- Start a repository
 	- Update the readme file
 	- Create a branch (version control)
 	- Create a page https://sslau852.github.io/TICKER-Talk/
-      (reference at https://guides.github.com/activities/hello-world/)
-    - GitHub Desktop – an alternative for programming
+         (reference at https://guides.github.com/activities/hello-world/)
+        - GitHub Desktop – an alternative for programming
 
 2.2. Looking for resources
 2.2.1 Search “penetration testing”
