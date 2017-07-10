@@ -23,7 +23,7 @@ Title: Open Source Programming – GitHub
 1.2 Popularity
   1.2.1 Facebook, Microsoft, Twitter also have their own Github page
        (reference at https://github.com/showcases/github-pages-examples)
-  1.2.2 Open Police – Being used by Belgium polices
+  1.2.2 Open Police – Being used by Belgium police
        (reference at https://github.com/belgianpolice/openpolice-platform)
 
 2. Demos
