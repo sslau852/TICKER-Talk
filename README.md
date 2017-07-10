@@ -72,4 +72,4 @@
    - Too little time, too many resources
    - How to keep passionate on developing research capability?
    - CS / TC -> need time + room for internalization
-   -Training is important, self-learning is crucial!
+   - Training is important, self-learning is crucial!
