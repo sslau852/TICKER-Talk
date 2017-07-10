@@ -20,7 +20,7 @@
 	- Business (HK$21/month) for hosting & other support
 
 1.2 Popularity
-- Facebook, Microsoft, Twitter also have their own Github pag
+- Facebook, Microsoft, Twitter also have their own Github page
   - (reference at https://github.com/showcases/github-pages-examples)
 - Open Police – Being used by Belgium police
   - (reference at https://github.com/belgianpolice/openpolice-platform)
