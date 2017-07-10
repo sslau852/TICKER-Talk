@@ -24,7 +24,6 @@
   - (reference at https://github.com/showcases/github-pages-examples)
 - Open Police – Being used by Belgium police
   - (reference at https://github.com/belgianpolice/openpolice-platform)
-- Open Police – Being used by Belgium police
 
 # 2. Demos
 
