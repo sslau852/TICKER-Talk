@@ -2,7 +2,7 @@
 Outline of TICKER Talk 
 Title: Open Source Programming – GitHub
 
-1. What is GitHub
+# 1. What is GitHub
 
 - A code hosting platform for version control and collaboration;
 - Enables individual and a group to work together on projects from anywhere;
@@ -26,7 +26,7 @@ Title: Open Source Programming – GitHub
   - (reference at https://github.com/belgianpolice/openpolice-platform)
 - Open Police – Being used by Belgium police
 
-2. Demos
+# 2. Demos
 
 2.1  Creating a Repository
   - Start a repository
@@ -42,7 +42,7 @@ Title: Open Source Programming – GitHub
   - Find “SECFORCE/Sparta” 
   - Even cheat sheets!
 
-3. Practical Exercise 
+# 3. Practical Exercise 
 
 3.1 CloudFail
     - Introduction of CloudFail
@@ -55,7 +55,7 @@ Title: Open Source Programming – GitHub
     - Installation of RouterSploit
     - Deployment of RouterSploit
 
-4. Practical Use
+# 4. Practical Use
 
 4.1 Misuse in hosting – 查詢警員資料
       - (Source: http://police-github.github.io)
@@ -68,7 +68,7 @@ Title: Open Source Programming – GitHub
    - Subpoena required!
    - Knowledge in programming (+ possibly Linux) required
 
-5. Food for Thought
+# 5. Food for Thought
    - Too little time, too many resources
    - How to keep passionate on developing research capability?
    - CS / TC -> need time + room for internalization
