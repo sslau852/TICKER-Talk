@@ -21,10 +21,10 @@ Title: Open Source Programming – GitHub
 	- Business (HK$21/month) for hosting & other support
 
 1.2 Popularity
-1.2.1 Facebook, Microsoft, Twitter also have their own Github page
-     (reference at https://github.com/showcases/github-pages-examples)
-1.2.2 Open Police – Being used by Belgium polices
-     (reference at https://github.com/belgianpolice/openpolice-platform)
+  1.2.1 Facebook, Microsoft, Twitter also have their own Github page
+       (reference at https://github.com/showcases/github-pages-examples)
+  1.2.2 Open Police – Being used by Belgium polices
+       (reference at https://github.com/belgianpolice/openpolice-platform)
 
 2. Demos
 2.1  Creating a Repository
