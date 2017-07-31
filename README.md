@@ -1,4 +1,4 @@
-# TICKER-Talk
+# TICKER-Talk (Welcome)
 Outline of TICKER Talk 
 
 Title: Open Source Programming – GitHub
